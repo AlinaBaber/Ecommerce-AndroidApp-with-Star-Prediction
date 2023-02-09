@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".com.hypermart.login.gihan.DeliveryInfo">
+
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="38dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:fontFamily="cursive"
+        android:text="@string/Delivery_Details"
+        android:textSize="30sp" />
+
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="280sp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        app:counterEnabled="true"
+        app:counterMaxLength="20"
+        app:errorEnabled="true">
+
+
+        <android.support.design.widget.TextInputEditText
+
+            android:id="@+id/delivery_name"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:ems="10"
+            android:gravity="center_vertical"
+            android:hint="@string/OrderName"
+            android:inputType="textPersonName"
+            android:textCursorDrawable="@drawable/color_cursor" />
+
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="280sp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        app:errorEnabled="true"
+        app:counterEnabled="true"
+        app:counterMaxLength="30">
+
+        <android.support.design.widget.TextInputEditText
+            android:id="@+id/delivery_address"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:ems="10"
+            android:inputType="textPostalAddress"
+            android:hint="@string/Delivery_Address"
+            android:textCursorDrawable="@drawable/color_cursor" />
+
+
+    </android.support.design.widget.TextInputLayout>
+
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="280sp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        app:errorEnabled="true"
+        app:counterEnabled="true"
+        app:counterMaxLength="5">
+
+        <android.support.design.widget.TextInputEditText
+            android:id="@+id/delivery_postal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:ems="10"
+            android:inputType="number"
+            android:gravity="center_vertical"
+            android:hint="@string/Postal_Code"
+            android:textCursorDrawable="@drawable/color_cursor" />
+
+
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="280sp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        app:errorEnabled="true"
+        app:counterEnabled="true"
+        app:counterMaxLength="10">
+
+
+        <android.support.design.widget.TextInputEditText
+            android:id="@+id/delivery_contact"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:ems="10"
+            android:hint="@string/ContactNo"
+            android:gravity="center_vertical"
+            android:inputType="phone"
+            android:textCursorDrawable="@drawable/color_cursor" />
+
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="280sp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        app:errorEnabled="true">
+
+
+        <android.support.design.widget.TextInputEditText
+            android:id="@+id/delivery_time"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:ems="10"
+            android:inputType="datetime"
+            android:hint="@string/DT"
+            android:gravity="center_vertical"
+            android:textCursorDrawable="@drawable/color_cursor" />
+
+    </android.support.design.widget.TextInputLayout>
+
+
+    <Button
+        android:id="@+id/proceed"
+        android:layout_width="300sp"
+        android:layout_height="40sp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="15dp"
+        android:layout_gravity="center"
+        android:background="@drawable/button_background"
+        android:text="@string/Proceed_To_Payment"
+        android:textColor="@color/white" />
+
+</LinearLayout>

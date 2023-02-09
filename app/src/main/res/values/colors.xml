@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3388FF</color>
+    <color name="colorAccent">#3388FF</color>
+    <color name="black">#000</color>
+    <color name="white">#ffffff</color>
+    <color name="btn">#3388FF</color>
+    <color name="note">#4286f4</color>
+    <color name="warning">#ff0000</color>
+    <color name="editTxt">#A9A9A9</color>
+    <color name="lightgray">#F0F0F0</color>
+
+</resources>

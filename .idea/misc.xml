@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/drawable/share.xml" value="0.3828125" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/activity_add_products.xml" value="0.3111413043478261" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/activity_customer_products.xml" value="0.3111413043478261" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/activity_edit_products.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/activity_home.xml" value="0.3111413043478261" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/activity_main.xml" value="0.3111413043478261" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/activity_my_account.xml" value="0.22604166666666667" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/activity_orders.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/activity_payment_info.xml" value="0.29846014492753625" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/activity_products.xml" value="0.29846014492753625" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/activity_shopping_cart.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/activity_sign_in.xml" value="0.29846014492753625" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/activity_sign_up.xml" value="0.29846014492753625" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/activity_splash_screen.xml" value="0.3111413043478261" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/cash_order_confirmation.xml" value="0.22418478260869565" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/customer_activity_view_product.xml" value="0.25" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/gihan_activity_add_review.xml" value="0.2328125" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/gihan_activity_customer_products.xml" value="0.29846014492753625" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/gihan_activity_customer_productsreview.xml" value="0.2328125" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/gihan_activity_delivery_info.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/gihan_activity_home.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/gihan_activity_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/gihan_activity_orders.xml" value="0.296875" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/gihan_activity_payment_for_card.xml" value="0.21739130434782608" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/gihan_activity_payment_info.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/gihan_activity_splash_screen.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/gihan_activity_view_product.xml" value="0.2328125" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/gihan_cash_order_confirmation.xml" value="0.21739130434782608" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/gihan_customercustomcart.xml" value="0.3532608695652174" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/gihan_customercustomlayout.xml" value="0.2328125" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/gihan_customercustomorder.xml" value="0.296875" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/gihan_customercustomreview.xml" value="0.2328125" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/gihan_nav_header.xml" value="0.22604166666666667" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/helani_activity_my_account.xml" value="0.22604166666666667" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/isuri_activity_shopping_cart.xml" value="0.33" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/nav_header.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/vimanga_activity_add_products.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/vimanga_activity_edit_products.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/vimanga_activity_products.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/layout/vimanga_activity_view_product.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/menu/nav_menu.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Alina Baber/Downloads/login2/app/src/main/res/xml/network_security_config.xml" value="0.1359375" />
+        <entry key="..\:/Users/Alina Baber/projects/login2/app/src/main/res/layout/activity_edit_order.xml" value="0.225" />
+        <entry key="..\:/Users/Alina Baber/projects/login2/app/src/main/res/layout/activity_edit_products.xml" value="0.25" />
+        <entry key="..\:/Users/Alina Baber/projects/login2/app/src/main/res/layout/activity_home.xml" value="0.2105978260869565" />
+        <entry key="..\:/Users/Alina Baber/projects/login2/app/src/main/res/layout/customercustomlayout.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Alina Baber/projects/login2/app/src/main/res/layout/customlayout.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Alina Baber/projects/login2/app/src/main/res/layout/gihan_activity_customer_products.xml" value="0.2105978260869565" />
+        <entry key="..\:/Users/Alina Baber/projects/login2/app/src/main/res/layout/gihan_activity_customer_productsreview.xml" value="0.22" />
+        <entry key="..\:/Users/Alina Baber/projects/login2/app/src/main/res/layout/gihan_activity_edit_order.xml" value="0.2105978260869565" />
+        <entry key="..\:/Users/Alina Baber/projects/login2/app/src/main/res/layout/gihan_activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/Alina Baber/projects/login2/app/src/main/res/layout/gihan_activity_main.xml" value="0.2105978260869565" />
+        <entry key="..\:/Users/Alina Baber/projects/login2/app/src/main/res/layout/gihan_activity_orders.xml" value="0.2105978260869565" />
+        <entry key="..\:/Users/Alina Baber/projects/login2/app/src/main/res/layout/gihan_activity_payment_for_card.xml" value="0.2105978260869565" />
+        <entry key="..\:/Users/Alina Baber/projects/login2/app/src/main/res/layout/gihan_activity_payment_info.xml" value="0.2105978260869565" />
+        <entry key="..\:/Users/Alina Baber/projects/login2/app/src/main/res/layout/gihan_activity_splash_screen.xml" value="0.2105978260869565" />
+        <entry key="..\:/Users/Alina Baber/projects/login2/app/src/main/res/layout/gihan_cash_order_confirmation.xml" value="0.2105978260869565" />
+        <entry key="..\:/Users/Alina Baber/projects/login2/app/src/main/res/layout/gihan_customercustomcart.xml" value="0.2105978260869565" />
+        <entry key="..\:/Users/Alina Baber/projects/login2/app/src/main/res/layout/gihan_customercustomlayout.xml" value="0.2105978260869565" />
+        <entry key="..\:/Users/Alina Baber/projects/login2/app/src/main/res/layout/gihan_customercustomorder.xml" value="0.2105978260869565" />
+        <entry key="..\:/Users/Alina Baber/projects/login2/app/src/main/res/layout/vimanga_activity_edit_products.xml" value="0.225" />
+      </map>
+    </option>
+  </component>
+  <component name="NullableNotNullManager">
+    <option name="myDefaultNullable" value="android.support.annotation.Nullable" />
+    <option name="myDefaultNotNull" value="android.support.annotation.NonNull" />
+    <option name="myNullables">
+      <value>
+        <list size="14">
+          <item index="0" class="java.lang.String" itemvalue="org.jetbrains.annotations.Nullable" />
+          <item index="1" class="java.lang.String" itemvalue="javax.annotation.Nullable" />
+          <item index="2" class="java.lang.String" itemvalue="javax.annotation.CheckForNull" />
+          <item index="3" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.Nullable" />
+          <item index="4" class="java.lang.String" itemvalue="android.support.annotation.Nullable" />
+          <item index="5" class="java.lang.String" itemvalue="androidx.annotation.Nullable" />
+          <item index="6" class="java.lang.String" itemvalue="androidx.annotation.RecentlyNullable" />
+          <item index="7" class="java.lang.String" itemvalue="com.android.annotations.Nullable" />
+          <item index="8" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.qual.Nullable" />
+          <item index="9" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NullableDecl" />
+          <item index="10" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NullableType" />
+          <item index="11" class="java.lang.String" itemvalue="org.eclipse.jdt.annotation.Nullable" />
+          <item index="12" class="java.lang.String" itemvalue="io.reactivex.annotations.Nullable" />
+          <item index="13" class="java.lang.String" itemvalue="io.reactivex.rxjava3.annotations.Nullable" />
+        </list>
+      </value>
+    </option>
+    <option name="myNotNulls">
+      <value>
+        <list size="14">
+          <item index="0" class="java.lang.String" itemvalue="org.jetbrains.annotations.NotNull" />
+          <item index="1" class="java.lang.String" itemvalue="javax.annotation.Nonnull" />
+          <item index="2" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.NonNull" />
+          <item index="3" class="java.lang.String" itemvalue="android.support.annotation.NonNull" />
+          <item index="4" class="java.lang.String" itemvalue="androidx.annotation.NonNull" />
+          <item index="5" class="java.lang.String" itemvalue="androidx.annotation.RecentlyNonNull" />
+          <item index="6" class="java.lang.String" itemvalue="com.android.annotations.NonNull" />
+          <item index="7" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.qual.NonNull" />
+          <item index="8" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NonNullDecl" />
+          <item index="9" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NonNullType" />
+          <item index="10" class="java.lang.String" itemvalue="org.eclipse.jdt.annotation.NonNull" />
+          <item index="11" class="java.lang.String" itemvalue="io.reactivex.annotations.NonNull" />
+          <item index="12" class="java.lang.String" itemvalue="io.reactivex.rxjava3.annotations.NonNull" />
+          <item index="13" class="java.lang.String" itemvalue="lombok.NonNull" />
+        </list>
+      </value>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
